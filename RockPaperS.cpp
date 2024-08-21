@@ -176,7 +176,7 @@ static void find_winner(int playr, int comptr){
 		case 1:
 		//if a tie	
 //			string a;
-			cout << "\nIt's a tie\n";
+			cout << "\nIt's a tie\n\n\n\n";
 //			cin >> a;
 //			system("cls") ;
 			main();
@@ -184,7 +184,7 @@ static void find_winner(int playr, int comptr){
 		case 2:
 		//if player wins
 //			string b;	
-			cout << "\nPlayer wins\n";
+			cout << "\nPlayer wins\n\n\n\n";
 //			cin >> b;
 //			system("cls");
 			main();
@@ -192,7 +192,7 @@ static void find_winner(int playr, int comptr){
 		case 3:
 		//if computer wins
 //			string c;	
-			cout << "\nComputer wins\n";
+			cout << "\nComputer wins\n\n\n\n";
 //			cin >> c
 //			system("cls");
 			main();
@@ -233,7 +233,7 @@ static void find_winner(string playr, string comptr){
 		case 1:
 		//if a tie	
 //			string a;
-			cout << "\nIt's a tie\n";
+			cout << "\nIt's a tie\n\n\n\n";
 //			cin >> a;
 //			system("cls");
 			main();
@@ -241,7 +241,7 @@ static void find_winner(string playr, string comptr){
 		case 2:
 		//if player wins
 //			string b;	
-			cout << "\nPlayer wins\n";
+			cout << "\nPlayer wins\n\n\n\n";
 //			cin >> b;
 //			system("cls");
 			main();
@@ -249,7 +249,7 @@ static void find_winner(string playr, string comptr){
 		case 3:
 		//if computer wins
 //			string c;	
-			cout << "\nComputer wins\n";
+			cout << "\nComputer wins\n\n\n\n";
 //			cin >> c;
 //			system("cls");
 			main();
